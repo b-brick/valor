@@ -1,0 +1,16 @@
+{
+  "name": "valor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "node_modules/.bin/truffle test"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "2.3.0",
+    "@openzeppelin/test-environment": "^0.1.1",
+    "@openzeppelin/test-helpers": "^0.5.4",
+    "chai": "^4.2.0",
+    "truffle": "5.0.2"
+  }
+}
